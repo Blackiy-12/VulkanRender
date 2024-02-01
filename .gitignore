@@ -30,3 +30,14 @@
 *.exe
 *.out
 *.app
+
+#Visual Studio
+.vs/
+bin-int/
+bin
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+
+#Python Cache
+scripts/__pycache__/
